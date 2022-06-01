@@ -1,6 +1,6 @@
 ---
 title: 留言板
-date: 2022/05/04
+date: 2022/05/04 12:00
 hideComments: false
 ---
 ::: tip

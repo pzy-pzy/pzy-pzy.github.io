@@ -42,6 +42,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           { text: 'vuepress-theme-reco', link: '/blogs/other/guide' }
         ]
       },
+      //{ text: 'TimeLine', link: '/article/timeline/' },
       { text: '留言板', link: '/article/MessageBoard' },
     ],
     // bulletin: {
