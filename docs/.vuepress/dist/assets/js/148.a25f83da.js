@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvuepress_theme_reco_demo=self.webpackChunkvuepress_theme_reco_demo||[]).push([[148],{148:(e,s,r)=>{r.r(s),r.d(s,{default:()=>d});var u=r(9763);const c={},d=(0,r(3744).Z)(c,[["ssrRender",function(e,s,r,c){s(`<div${(0,u.fq)(c)}>404</div>`)}]])}}]);
