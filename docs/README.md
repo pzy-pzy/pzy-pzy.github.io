@@ -24,7 +24,7 @@ blog: # blog 模块的配置
     - { icon: 'BrandGithub', link: 'https://github.com/pzy-pzy' }
     - { icon: 'BrandMessenger', link: '/wechat.png' }
 footer: # 底部模块的配置
-  record: 湘ICP备19021302
+  record: 湘ICP备19021302号
   recordLink: https://beian.miit.gov.cn/
   # cyberSecurityRecord: 公安备案文案
   # cyberSecurityLink: 公安备案地址
