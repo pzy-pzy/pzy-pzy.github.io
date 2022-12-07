@@ -43,6 +43,12 @@ jobs:
       - name: Build VuePress site
         run: yarn build
 
+      # 增加域名重定向
+      - name: Create CNAME File
+        run: | 
+        cd .vuepress/dist
+        echo 'panzey.cn' > CNAME
+        
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
