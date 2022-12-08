@@ -12,7 +12,7 @@ export default defineUserConfig({
     authorAvatar: '/mylogo.jpg',
     docsRepo: 'https://github.com/pzy-pzy/pzy-pzy.github.io',
     docsBranch: 'master',
-    docsDir: 'docs',
+    docsDir: '',
     lastUpdatedText: '最后更新于',
     catalogTitle: '当前目录', //自定义目录标题
     // series 为原 sidebar

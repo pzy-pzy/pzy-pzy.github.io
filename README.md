@@ -15,7 +15,7 @@ bannerBrand:
     borderRadius: '1rem'
   bgImage: '/bg.svg'
   heroText: 琴鬼白羊
-  tagline: 这里是琴鬼白羊的小博客
+  tagline: 这里是琴鬼白羊的小博客。为避免版权问题，禁止转载。
   # buttons:
   #   - { text: Guide, link: '/docs/guide/introduce' }
   #   - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }
