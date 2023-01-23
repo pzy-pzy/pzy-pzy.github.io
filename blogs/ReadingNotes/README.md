@@ -44,6 +44,10 @@ categories:
 
 1. [数字图像处理](https://book.douban.com/subject/6434627/)
 
+### 2.5 关于个人成长
+
+1. [最重要的事，只有一件](https://book.douban.com/subject/26656532/)
+
 ## 3 书评
 
 ::: tip
