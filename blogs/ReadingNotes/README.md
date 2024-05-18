@@ -47,6 +47,7 @@ categories:
 ### 2.5 关于个人成长
 
 1. [最重要的事，只有一件](https://book.douban.com/subject/26656532/)
+2. [价值心法](https://book.douban.com/subject/36418769/)
 
 ## 3 书评
 
